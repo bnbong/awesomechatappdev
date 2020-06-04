@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./test.html).
+[Link to another page](./2020-05-23-firstdevnote.html).
 
 There should be whitespace between paragraphs.
 
