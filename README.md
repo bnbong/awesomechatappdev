@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Awesome ChattingApp Development notes!
 
 You can use the [editor on GitHub](https://github.com/bnbong/awesomechatappdev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
