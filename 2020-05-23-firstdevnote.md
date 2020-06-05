@@ -14,6 +14,7 @@ layout: default
 (아래는 최종 아이디어들을 결합한 결과물의 스케치 사진입니다.)
 
 ![1stpicture](docs/1stday.png)
+사진이 나오지 않는 경우, [1stday](https://github.com/bnbong/awesomechatappdev/blob/master/docs/1stday.png)에서 확인하세요.
 
 약 3시간 정도 회의한 결과, 저희 팀이 제작할 앱에서는 해당 학생의 블랙보드와의 계정연동 및 채팅기능 사용을 위한 블랙보드에 저장되어 있는
 아이디의 로그인 기능과 해당 앱을 사용중인 모든 학생들과 소통이 가능한 채팅창을 제공하는 기능, 블랙보드에 로그인한 회원정보를 바탕으로
