@@ -1,8 +1,5 @@
 title: Awesome_ChattingApp Development Notes
 description: development notes for Awesome Chatting App
-show_downloads: true
-github:
-  zip_url: https://github.com/bnbong/Awesome_ChattingApp/releases/download/0.1.0/Awesome_Chat.apk.zip
-  another_url: https://github.com/bnbong/Awesome_ChattingApp/releases/download/0.1.0/Awesome_Chat.apk.tar
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
